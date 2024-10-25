@@ -16,6 +16,17 @@ Currently, it supports the extraction and parsing of 14 significant keys along w
 
 In terms of usage, the tool's creator disclaims any responsibility for misuse, underscoring its educational intent. Users wishing to add features must seek permission from the creator and are not permitted to reuse the code without proper authorization.
 
+---
+Steps to follow to install the tool:
+```
+1. in your terminal: https://github.com/sameerfakhoury/ForenZmap.git
+2. cd ForenZmap
+3. pip install -r requirements.txt
+4. python3 ForenZmap.py
+5. now you are ready to use the tool by providing SYSTEM.hiv, SOFTWARE.hiv or Both
+```
+---
+
 ```
 [x] Welcome to ForenZmap! You can perform triage parsing on the SOFTWARE.hiv, SYSTEM.hiv, or both. Press spacebar to continue.
 [x] Enter the path for SOFTWARE.hiv (or press Enter to skip) ex: C:\Users\semo\Desktop\SOFTWARE.hiv
