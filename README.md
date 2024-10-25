@@ -19,7 +19,7 @@ In terms of usage, the tool's creator disclaims any responsibility for misuse, u
 ---
 Steps to follow to install the tool:
 ```
-1. in your terminal: git clone https://github.com/sameerfakhoury/ForenZmap.git
+1. in your Command Line: git clone https://github.com/sameerfakhoury/ForenZmap.git
 2. cd ForenZmap
 3. pip install -r requirements.txt
 4. python3 ForenZmap.py
