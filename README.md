@@ -29,7 +29,7 @@ Steps to follow to install the tool:
 8. You can now use the tool by supplying the SYSTEM.hiv, SOFTWARE.hiv, or both.
 ```
 ---
-
+This is the text that will be displayed when you run the tool.
 ```
 [x] Welcome to ForenZmap! You can perform triage parsing on the SOFTWARE.hiv, SYSTEM.hiv, or both. Press spacebar to continue.
 [x] Enter the path for SOFTWARE.hiv (or press Enter to skip) ex: C:\Users\semo\Desktop\SOFTWARE.hiv
