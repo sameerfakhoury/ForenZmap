@@ -19,11 +19,14 @@ In terms of usage, the tool's creator disclaims any responsibility for misuse, u
 ---
 Steps to follow to install the tool:
 ```
-1. in your Command Line: git clone https://github.com/sameerfakhoury/ForenZmap.git
-2. cd ForenZmap
-3. pip install -r requirements.txt
-4. python3 ForenZmap.py
-5. now you are ready to use the tool by providing SYSTEM.hiv, SOFTWARE.hiv or Both
+1. Download the tool as a ZIP file by clicking the "Code" button.
+2. Extract the contents of the ZIP file.
+3. Open your command line and navigate to the ForenZmap-main directory.
+4. Run cd ForenZmap.
+5. Use ls to verify that the requirements.txt file is present.
+6. Install the required dependencies with pip install -r requirements.txt.
+7. Start the tool by executing python3 ForenZmap.py.
+8. You can now use the tool by supplying the SYSTEM.hiv, SOFTWARE.hiv, or both.
 ```
 ---
 
