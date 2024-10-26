@@ -36,3 +36,11 @@ This is the text that will be displayed when you run the tool.
 
 [x] Enter the path for SYSTEM.hiv (or press Enter to skip): ex: C:\Users\semo\Desktop\SYSTEM.hiv
 ```
+---
+If you’d like to test the tool but don’t have `SYSTEM.hiv` or `SOFTWARE.hiv` files, you can create copies from your own system by following these steps:
+```
+1. Open Command Prompt as an administrator.
+2. Navigate to `C:\Windows\System32\config`.
+3. Use this command to save the files: `reg save HKLM\SYSTEM C:\path\to\save\location\SYSTEM.hiv` (repeat for `SOFTWARE.hiv`).
+4. Now, you’re ready to explore the tool by providing these two files as inputs.
+```
